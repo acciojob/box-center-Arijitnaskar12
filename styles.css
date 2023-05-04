@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.container{
+	height:200px;
+	width:200px;
+	background-color:lightblue;
+	border:2px solid black;
+	position:relative;
+	top:200px;
+	left:150px;
+	
+}
+.content{
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin: -25px 0 0 -40px;
+}
